@@ -22,7 +22,7 @@ Delivery Food - это онлайн-сервис доставки еды на д
 4. Посмотреть добавленные товары в корзину. Увеличить, уменьшить, удалить товары из корзины
 
 ## Ссылки
-[Figma](https://www.figma.com/file/jvdXKoLWJcJOX3nwiSyfCo/Delivery-Food-(Copy)?type=design&node-id=230-22216&mode=design)
+[Figma](https://www.figma.com/file/jvdXKoLWJcJOX3nwiSyfCo/Delivery-Food-(Copy)?type=design&node-id=230-22216&mode=design) \
 [Ссылка на GitHub Pages](https://antonsushilov.github.io/DiliveryFood_JS/)
 
 
