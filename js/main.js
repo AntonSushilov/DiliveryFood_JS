@@ -156,7 +156,7 @@ function createCardRestaurant(restaurant) {
 
   
   const card = document.createElement('a');
-  card.className = 'card card-restaurant';    
+  card.className = 'card card-restaurant wow zoomInDown';    
   card.products = products;
   card.info = [name, price, stars, kitchen];
 
@@ -193,7 +193,7 @@ function createCardGood(goods) {
   } = goods;
 
   const card = document.createElement('div');
-  card.className = 'card';
+  card.className = 'card wow flipInX';
   
 
   card.insertAdjacentHTML('beforeend', `
@@ -432,7 +432,7 @@ function init() {
   
   
   
-  new Swiper('.swiper-container', {
+  new Swiper('.swiper', {
     loop: true,
     autoplay: {
       delay: 3000,
@@ -441,3 +441,4 @@ function init() {
 }
 
 init();
+new WOW().init();
